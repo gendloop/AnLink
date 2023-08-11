@@ -1,9 +1,9 @@
-# RepoName
+# AnLink
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/AnLink
 ```
 
 ## Notes
